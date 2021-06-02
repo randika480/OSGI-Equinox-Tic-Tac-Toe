@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: GRID_Player1_Consumer
+Bundle-SymbolicName: GRID_Player1_Consumer
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: com.grid_player1_consumer.Activator
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Import-Package: com.grid_gameboard_publisher,
+ com.grid_gamemaster_publisher,
+ org.osgi.framework;version="1.3.0"
+
